@@ -1,5 +1,7 @@
-# simple-site
+# Lux-Allowance-Calculator - Build Folder
 
-The build process for a very simple set processes for creating a standard set of webpages based on a small set of simple json files. All of the other required files, javascript, css, images, etc should be placed in the appropriate folders under the **docs** folder.
+This folder contains all of the code used to automatically build a GitHub pages website presenting a live working version of the [Lux Allowance Calculator](https://jpadfield.github.io/Lux-Allowance-Calculator/). 
 
-For more information about how this process work please see the details are supplied within the [simple-site](https://jpadfield.github.io/simple-site/) web pages
+This tool is currently based on the [Simple Site](https://github.com/jpadfield/simple-site) system, with much of the custom features provided via a bespoke [Simple Site Extention](https://jpadfield.github.io/simple-site/extensions.html), which can be found [here](./extensions/luxallowance.php). 
+
+All of the other required files, javascript, css, images, etc should be placed in the appropriate folders under the [docs](./docs) folder.
